@@ -1,0 +1,15 @@
+MATH-104(MATH301) | Linear Algebra             |3
+MATH-201          |Intro. to Probability & Statistics |3
+ENGL 101          | English |          |3
+CSCI207           |Fundamentals of Data Structures & Algorithms | 3
+ARTS-201-1,2      | Introduction to Photography| 3
+CHIN-101-1,2      | Introduction to Chinese Language |3
+
+------------------
+ENGL 201          |Writing Skills             |3
+MATH-104(MATH301) |Linear Algebra             |3
+MATH-201          |Intro. to Probability & Statistics |3
+CSCI207           |Fundamentals of Data Structures & Algorithms | 3
+ECEN-303          | Introduction to Computer Systems |3
+ARTS-201-1,2      | Introduction to Photography| 3
+CHIN-101-1,2      | Introduction to Chinese Language |3
